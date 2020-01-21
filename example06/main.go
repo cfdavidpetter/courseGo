@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Begini script FTP.")
+	fmt.Println("Begini script Detail CEP.")
 	fmt.Println("")
 	time.Sleep(1000 * time.Millisecond)
 
