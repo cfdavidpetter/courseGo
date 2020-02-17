@@ -1,3 +1,3 @@
 # courseGo
 
-My first GoLang course :)
+My first GoLang course.
