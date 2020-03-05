@@ -1,3 +1,3 @@
-# courseGo
+# 👨‍🎓 courseGo
 
 My first GoLang course.
